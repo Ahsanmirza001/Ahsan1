@@ -1,45 +1,26 @@
-# how to used terminal
-The goal of this guide is to explore some of the main scikit-learn tools on a single practical task: analyzing a collection of text documents (newsgroups posts) on twenty different topics.
+# cruft
+.*.swp
+*.pyc
+.DS_Store
+*.pdf
 
-In this section we will see how to:
+# folder to be used for working on the exercises
+workspace
 
-load the file contents and the categories
-extract feature vectors suitable for machine learning
-train a linear model to perform categorization
-use a grid search strategy to find a good configuration of both the feature extraction components and the classifier
+# output of the sphinx build of the documentation
+tutorial/_build
 
-You can use the [editor on GitHub](https://github.com/Ahsanmirza001/Ahsan1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# datasets to be fetched from the web and cached locally
+data/twenty_newsgroups/20news-bydate.tar.gz
+data/twenty_newsgroups/20news-bydate-train
+data/twenty_newsgroups/20news-bydate-test
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+data/movie_reviews/txt_sentoken
+data/movie_reviews/poldata.README.2.0
 
-### Markdown
+data/languages/paragraphs
+data/languages/short_paragraphs
+data/languages/html
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ahsanmirza001/Ahsan1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+data/labeled_faces_wild/lfw_preprocessed/
+© 2020 GitHub, Inc.
