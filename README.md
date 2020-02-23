@@ -3,8 +3,7 @@ The goal of this guide is to explore some of the main scikit-learn tools on a si
 *.pyc
 .DS_Store
 *.pdf
-
-# folder to be used for working on the exercises
+#Tutorial setup
 workspace
 
 # output of the sphinx build of the documentation
