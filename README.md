@@ -1,7 +1,7 @@
-Blogging
+#Blogging
 An important part of being a professional data scientist is being able to communicate clearly - both in writing and in person. Because of that, we will be asking you to write at least seven blog posts before graduating. This short lesson provides a little more information about why we ask you to blog, what we ask you to blog about, and how we'd like you to blog.
 
-Why Blog?
+##Why Blog?
 As a professional data scientist, you'll often have to communicate in writing. Sometimes you'll have to write something technical for your peers, at other times you'll have to provide a non-technical summary for business stakeholders. In either case, it's important to be able to distill a complex technical topic and share in writing the most important points.
 
 A blog can also help you to get a data science job. It's a way to showcase your skills to potential employers before they decide to interview you, so it's important to realize that your blog posts may well be reviewed by potential employers when deciding whether or not to grant you an interview.
@@ -16,7 +16,7 @@ Your blog is for the larger community. As you go through the course you will be 
 
 Your blog is for potential employers. Your blog posts can be an additional bullet point to add to your resume and a way to establish your presence and credibility. Student blogs have been picked up by Medium publications and students have even become exempt from technical interviews due to knowledge they demonstrated in a blogpost!
 
-What to Blog About?
+##What to Blog About?
 There are seven blog posts that we'll ask you to complete. These blogs are required in order to graduate! Note: On-campus students may have different requirements, please speak with your instructor. Please feel free to write more posts, although in general a "reasonable quantity and great quality" is probably the best strategy so you can have 1-2 posts that you can point potential employers to that really show how you can write for both technical and non-technical audiences. The risk of too many posts is that employers will click onto some of the weaker ones if you didn't have the time to make them all great.
 
 Here are some suggested blog topics:
