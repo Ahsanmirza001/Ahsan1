@@ -17,7 +17,7 @@ This is the actual interface to the console. The program we use to interact with
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+*.py[ x = 12 >,{jj}]
 *$py.class
 
 # C extensions
