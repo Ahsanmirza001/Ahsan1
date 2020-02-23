@@ -1,5 +1,12 @@
 # how to used terminal
-#ction Now that we have had an introduction to the command line, have seen how to clone GitHub repos to our local machine (our computer), and have seen some common Jupyter Notebook operations, it's time to put our skills to the test! If you're unfamiliar with the concept of variables, don't worry. Just follow along with the instructions - we'll talk about variables and data types much more in the next few lessons!## Introdu
+The goal of this guide is to explore some of the main scikit-learn tools on a single practical task: analyzing a collection of text documents (newsgroups posts) on twenty different topics.
+
+In this section we will see how to:
+
+load the file contents and the categories
+extract feature vectors suitable for machine learning
+train a linear model to perform categorization
+use a grid search strategy to find a good configuration of both the feature extraction components and the classifier
 
 You can use the [editor on GitHub](https://github.com/Ahsanmirza001/Ahsan1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
