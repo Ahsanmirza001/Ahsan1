@@ -1,5 +1,5 @@
-# cruft
-.*.swp
+# Working With Text Data
+.*.The goal of this guide is to explore some of the main scikit-learn tools on a single practical task: analyzing a collection of text documents (newsgroups posts) on twenty different topics.
 *.pyc
 .DS_Store
 *.pdf
