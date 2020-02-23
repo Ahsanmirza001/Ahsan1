@@ -1,4 +1,5 @@
 ## Working with Lessons on Learn - Lab
+#ction Now that we have had an introduction to the command line, have seen how to clone GitHub repos to our local machine (our computer), and have seen some common Jupyter Notebook operations, it's time to put our skills to the test! If you're unfamiliar with the concept of variables, don't worry. Just follow along with the instructions - we'll talk about variables and data types much more in the next few lessons!## Introdu
 
 You can use the [editor on GitHub](https://github.com/Ahsanmirza001/Ahsan1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
