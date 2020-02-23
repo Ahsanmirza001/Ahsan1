@@ -1,7 +1,8 @@
-#Blogging
+# Blogging
+
 An important part of being a professional data scientist is being able to communicate clearly - both in writing and in person. Because of that, we will be asking you to write at least seven blog posts before graduating. This short lesson provides a little more information about why we ask you to blog, what we ask you to blog about, and how we'd like you to blog.
 
-##Why Blog?
+## Why Blog?
 As a professional data scientist, you'll often have to communicate in writing. Sometimes you'll have to write something technical for your peers, at other times you'll have to provide a non-technical summary for business stakeholders. In either case, it's important to be able to distill a complex technical topic and share in writing the most important points.
 
 A blog can also help you to get a data science job. It's a way to showcase your skills to potential employers before they decide to interview you, so it's important to realize that your blog posts may well be reviewed by potential employers when deciding whether or not to grant you an interview.
