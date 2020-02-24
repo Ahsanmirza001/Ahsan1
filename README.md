@@ -1,9 +1,8 @@
-# Brief introduction of GitHub and Terminal
-What Is the Terminal?
-The terminal is a text based way to interact with the files and programs on your computer.
+# Brief introduction of Git, GitHub and Terminal
+
 # what is git.
 Git is a free and open source distributed version control system. Git's purpose is to keep track of projects and files as they change over time with manipulations happening from different users. Git stores information about the project's progress on a repository
-How Git works?
+## How Git works?
 Once you have Git installed on your system, sign-up on GitHub and create your first remote repository.
 ## Configure Git
 After Git is installed on your system, you need to configure Git so that it can understand who is pushing the code to the remote repository, as many people could be working on the project. The most important configurations are the username and the user’s email. This can be setup using following commands.
@@ -125,7 +124,8 @@ Inline-style:
 
 
 file:///Users/mohammadahsan/Desktop/Screen%20Shot%202020-02-23%20at%208.40.50%20PM.png
-
+What Is the Terminal?
+The terminal is a text based way to interact with the files and programs on your computer.
 
 
 
