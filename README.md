@@ -15,6 +15,21 @@ The derivative of y with respect to x is defined as the change in y over the cha
 5. The Mean Value Theorem
 ## 3. Rules for Finding Derivatives
 1. The Power Rule
+We start with the derivative of a power function, f(x)=xn
+f
+(
+x
+)
+=
+x
+n
+. Here n
+n
+ is a number of any kind: integer, rational, positive, negative, even irrational, as in xπ
+x
+π
+. We have already computed some simple examples, so the formula should not be a complete surprise:
+ddxxn=nxn−1
 `1. The Power Rule
 2. Linearity of the Derivative
 3. The Product Rule
