@@ -5,6 +5,24 @@ The terminal is a text based way to interact with the files and programs on your
 Git is a free and open source distributed version control system. Git's purpose is to keep track of projects and files as they change over time with manipulations happening from different users. Git stores information about the project's progress on a repository
 How Git works?
 Once you have Git installed on your system, sign-up on GitHub and create your first remote repository.
+## Configure Git
+After Git is installed on your system, you need to configure Git so that it can understand who is pushing the code to the remote repository, as many people could be working on the project. The most important configurations are the username and the user’s email. This can be setup using following commands.
+```
+git config --global user.name "Ahsan"
+git config --global user.email "ahsanclouds@gmail.com"
+```
+After this, Git on your system will use these credentials every time you push some code to the remote repository. You can view all Git configurations using the command below.
+```
+git config --list
+```
+Initializing Git Repository
+Let’s make a sample folder with name git-test which is same as our repository name we created on GitHub. This will be your local repository. After doing that, open the terminal window from within that folder.
+First of all, we need make this folder a Git repository. It will be done by executing the command below.
+```
+git init
+```
+
+
 ## Basic Terminal commands.
 1. git Status
 2. git add
@@ -16,7 +34,7 @@ git status
 ```
 The `git status` command displays the state of the working directory and the staging area.The best way to determine if I have your code is to check the status of your git repo with git status
 ```
-git add.
+
 ```
 The git add is a command, which adds changes in the working directory to the staging area.
 ```
