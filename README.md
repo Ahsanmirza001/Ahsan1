@@ -27,46 +27,60 @@ git push
 2.ls
 3.ls -a
 4. cd
-
-
-
 ```
-def f_d(f_ns):
-    d_ns = list(map(lambda f_n: d_t(f_n),f_ns))
-    return list(filter(lambda d_n: d_n[0] != 0, d_ns))
+pwd
 ```
-y = [(9,5),(4,9)]
+```
+ls
+```
+```
+ls -a
+```
+```
+cd
+```
+```
+cd ..
+```
+# setting up a repository.
+```
+git clone or downlond " url massage copied"
+```
+1. mkdir
+2. git init
+3. git remote and origin
+4. git push origin master
+```
+mkdir
+```
+```
+git init
+```
+```
+git remote and origin
+```
+```
+git push origin master
 ```
 
 
-```
-y = [(9,5),(4,9)]
-
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-perm_identity
-Python map() function
-
-map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
 
 
 
-```
-𝑓′(𝑥)=𝑓(𝑥1+Δ𝑥)−𝑓(𝑥1)Δ𝑥
-
-```
 
 
-```
-function test() {
-  console.log("notice the blank line before this function?");
-}
-```
-mnelson:myproject mnelson$ git branch
-  master
-* my-new-branch
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
