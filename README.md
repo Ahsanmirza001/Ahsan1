@@ -28,25 +28,12 @@ If your remote repository already contains some code files, then you need to pul
 git clone repo-url [folder]
 ```
 Whenever you use git pull or git push, you only fetching or sending these commits to remote repository. Git on remote repository server then merges these commits to the its local repository (our remote repository).
-## What are Branches?
-```
-branch = (commit, branch name)
-```
-
-
-
-## Basic Terminal commands.
-1. git Status
-2. git add
-3. git commit
-4. git push
  
 ```
 git status
 ```
 The `git status` command displays the state of the working directory and the staging area.The best way to determine if I have your code is to check the status of your git repo with git status
 ```
-
 ```
 The git add is a command, which adds changes in the working directory to the staging area.
 ```
@@ -128,6 +115,11 @@ What Is the Terminal?
 The terminal is a text based way to interact with the files and programs on your computer.
 
 
+## Basic Terminal commands.
+1. git Status
+2. git add
+3. git commit
+4. git push
 
 
 
