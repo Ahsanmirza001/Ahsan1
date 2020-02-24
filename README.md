@@ -28,6 +28,8 @@ function test() {
 
 
 
-
+mnelson:myproject mnelson$ git branch
+  master
+* my-new-branch
 
 
