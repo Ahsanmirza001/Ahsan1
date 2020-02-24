@@ -30,7 +30,10 @@ function test() {
   console.log("notice the blank line before this function?");
 }
 ```
+perm_identity
+Python map() function
 
+map() function returns a map object(which is an iterator) of the results after applying the given function to each item of a given iterable (list, tuple etc.)
 
 
 
