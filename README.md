@@ -78,6 +78,8 @@ git remote and origin
 git push origin master
 ```
 # additional useful terminal commands
+# special folders
+home directory when i typeied pwd it show ahsan its my home directory.
 
 
 
