@@ -1,13 +1,5 @@
-# Terminal## How to open new terminal.
-
-
-
-
-,,, 
-hggsdjgasjdgj
-,,,
-
-
+# Terminal
+## How to open new terminal.
 Before you can use it, you need to be able to find it. So what we need to do is open the terminal just press command n.
 ## First let’s clarify a few terms
 # Console: 
@@ -28,6 +20,11 @@ function test() {
 
 
 
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 
