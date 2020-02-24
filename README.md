@@ -28,6 +28,11 @@ If your remote repository already contains some code files, then you need to pul
 ```
 git clone repo-url [folder]
 ```
+Whenever you use git pull or git push, you only fetching or sending these commits to remote repository. Git on remote repository server then merges these commits to the its local repository (our remote repository).
+## What are Branches?
+```
+branch = (commit, branch name)
+```
 
 
 
