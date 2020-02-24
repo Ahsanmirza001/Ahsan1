@@ -1,4 +1,6 @@
 # Brief introduction of GitHub and Terminal
+What Is the Terminal?
+The terminal is a text based way to interact with the files and programs on your computer.
 ## Basic Terminal commands.
 1. git Status
 2. git add
