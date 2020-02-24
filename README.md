@@ -19,6 +19,9 @@ git add add index.html
 ```
 git commit -m " write any massage"
 ```
+```
+git push
+```
 
 
 
