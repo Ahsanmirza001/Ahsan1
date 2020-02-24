@@ -17,9 +17,8 @@ def f_d(f_ns):
     return list(filter(lambda d_n: d_n[0] != 0, d_ns))
 ```y = [(9,5),(4,9)]
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+
+
 ```
 y = [(9,5),(4,9)]
 
