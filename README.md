@@ -1,50 +1,5 @@
 
-The derivative of 
-f
-(
-x
-)
-f
-(
-x
-)
- with respect to x is the function 
-f
-′
-(
-x
-)
-f
-′
-(
-x
-)
- and is defined as,
-f
-′
-(
-x
-)
-=
-lim
-h
-→
-0
- 
-f
-(
-x
-+
-h
-)
-−
-f
-(
-x
-)
-h
-  
-(2)
+𝑓′(𝑥)=𝑓(𝑥1+Δ𝑥)−𝑓(𝑥1)Δ𝑥
  
 ```
 def d_t(n):
