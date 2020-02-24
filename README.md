@@ -34,9 +34,8 @@ function test() {
 
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+𝑓′(𝑥)=𝑓(𝑥1+Δ𝑥)−𝑓(𝑥1)Δ𝑥
+
 ```
 
 
