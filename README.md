@@ -1,3 +1,4 @@
+# What is derivative.
 The derivative of y with respect to x is defined as the change in y over the change in x, as the distance between 
 
  
