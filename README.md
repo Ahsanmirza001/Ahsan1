@@ -6,10 +6,7 @@
 4. git push
  
 ```
-def d_t(n):
-    k = n[0]*n[1]
-    e = n[1] - 1
-    return (k,e)
+git status
 ```
 
 ` hgshghdg`
