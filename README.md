@@ -1,5 +1,7 @@
 # Brief introduction of GitHub and Terminal
-
+## Basic Terminal commands.
+1. git Status
+2. git add
  
 ```
 def d_t(n):
