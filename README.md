@@ -8,7 +8,7 @@
 ```
 git status
 ```
-The `git status` command displays the state of the working directory and the staging area.
+The `git status` command displays the state of the working directory and the staging area.The best way to determine if I have your code is to check the status of your git repo with git status
 ```
 git add.
 ```
