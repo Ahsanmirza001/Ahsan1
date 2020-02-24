@@ -22,6 +22,11 @@ git commit -m " write any massage"
 ```
 git push
 ```
+# Navigating with in terminal.
+1. pwd
+2.ls
+3.ls -a
+4. cd
 
 
 
