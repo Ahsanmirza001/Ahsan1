@@ -28,6 +28,15 @@ function test() {
 
 
 
+
+
+
+
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 mnelson:myproject mnelson$ git branch
   master
 * my-new-branch
