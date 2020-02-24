@@ -2,6 +2,8 @@
 ## Basic Terminal commands.
 1. git Status
 2. git add
+3. git commit
+4. git push
  
 ```
 def d_t(n):
