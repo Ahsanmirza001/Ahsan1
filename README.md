@@ -12,6 +12,7 @@ The `git status` command displays the state of the working directory and the sta
 ```
 git add.
 ```
+The git add is a command, which adds changes in the working directory to the staging area.
 
 
 
