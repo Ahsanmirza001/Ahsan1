@@ -15,6 +15,11 @@ The derivative of y with respect to x is defined as the change in y over the cha
 5. The Mean Value Theorem
 ## 3. Rules for Finding Derivatives
 1. The Power Rule
+`1. The Power Rule
+2. Linearity of the Derivative
+3. The Product Rule
+4. The Quotient Rule
+5. The Chain Rule
 2. Linearity of the Derivative
 3. The Product Rule
 4. The Quotient Rule
