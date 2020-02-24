@@ -21,6 +21,14 @@ First of all, we need make this folder a Git repository. It will be done by exec
 ```
 git init
 ```
+```
+git remote add origin repo-url
+```
+If your remote repository already contains some code files, then you need to pull them inside your local repository. For that, use the command below.
+```
+git clone repo-url [folder]
+```
+
 
 
 ## Basic Terminal commands.
