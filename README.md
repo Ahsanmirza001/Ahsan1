@@ -22,11 +22,11 @@ git commit -m " write any massage"
 ```
 git push
 ```
-# Navigating with in terminal.
-1. pwd
+# Navigating with in terminal and manipulation.
+1. pwd its stand for present working directory. its tell me where i'm right now.
 2.ls
 3.ls -a
-4. cd
+4. cd its stand for change directory for example if we write cd desktop in terminal its actuaaly change the path its means i change directory in desktop.then if i tped pwd its show im in desktop.
 ```
 pwd
 ```
@@ -37,12 +37,12 @@ ls is list of file in directory, if i write ls in terminal its gonna pull out ev
 ```
 man ls
 ```
-man ls stand for manual list its will bring up a lot of documentation if we scroll down we have lot of option
+man ls stand for manual list its will bring up a lot of documentation if we scroll down we have lot of option and how to get out of this you need to scroll all the way down you will see colen sign press q "for quit" one more thing if we inthe manual ls scrol all the way down press forword slash and type and words we wanna to search to scrol town just type foeword slash and return
 ```
 ls -l
 
 ```
-its will give me full numbers of bites
+its will give me full numbers of bites for example k.b, m.b etc
 ```
 cd
 ```
@@ -60,8 +60,16 @@ git clone or downlond " url massage copied"
 ```
 mkdir
 ```
+mkdir stand for make new directory
 ```
 git init
+```
+```
+cat
+```
+its stand for concatenate its very useful when we dealing with large data.
+```
+less
 ```
 ```
 git remote and origin
