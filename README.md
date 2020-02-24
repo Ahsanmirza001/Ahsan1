@@ -1,4 +1,37 @@
+The derivative of y with respect to x is defined as the change in y over the change in x, as the distance between 
+x
+0
+{\displaystyle x_{0}} and 
+x
+1
+{\displaystyle x_{1}} becomes infinitely small (infinitesimal). In mathematical terms,
 
+f
+′
+(
+a
+)
+=
+lim
+h
+→
+0
+f
+(
+a
++
+h
+)
+−
+f
+(
+a
+)
+h
+{\displaystyle f'(a)=\lim _{h\to 0}{\frac {f(a+h)-f(a)}{h}}}
+That is, as the distance between the two x points (h) becomes closer to zero, the slope of the line between them comes closer to resembling a tangent line.
+
+Derivatives of functions
 𝑓′(𝑥)=𝑓(𝑥1+Δ𝑥)−𝑓(𝑥1)Δ𝑥
  
 ```
