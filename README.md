@@ -18,7 +18,11 @@ This is the beginning of the command line. It usually provides some contextual i
 This is the actual interface to the console. The program we use to interact with the console is actually a “terminal emulator”, providing us the experience of typing into an old school terminal from the convenience of our modern graphical operating system.
 
 
-
+```
+function test() {
+  console.log("notice the blank line before this function?");
+}
+```
 
 
 
