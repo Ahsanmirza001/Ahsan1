@@ -103,7 +103,7 @@ git push origin master
 # additional useful terminal commands
 # special folders
 home directory when i typeied pwd it show ahsan its my home directory.
-
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
 
 
 Inline-style: 
