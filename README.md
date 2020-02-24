@@ -1,5 +1,11 @@
-# Terminal
-## How to open new terminal.
+# Terminal## How to open new terminal.
+
+
+
+
+,,, 
+hggsdjgasjdgj
+,,,
 Before you can use it, you need to be able to find it. So what we need to do is open the terminal just press command n.
 ## First let’s clarify a few terms
 # Console: 
