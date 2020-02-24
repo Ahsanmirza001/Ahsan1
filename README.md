@@ -83,6 +83,8 @@ home directory when i typeied pwd it show ahsan its my home directory.
 
 
 
+Inline-style: 
+![alt text]("https://drive.google.com/file/d/1jbW8hzYxhprvW2Bgiabk-3QNZdH6GcV6/view?usp=sharing")
 
 
 
