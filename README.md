@@ -33,9 +33,16 @@ pwd
 ```
 ls
 ```
+ls is list of file in directory, if i write ls in terminal its gonna pull out everything in that directory. if we write command ls its will give you alot of options.
 ```
-ls -a
+man ls
 ```
+man ls stand for manual list its will bring up a lot of documentation if we scroll down we have lot of option
+```
+ls -l
+
+```
+its will give me full numbers of bites
 ```
 cd
 ```
