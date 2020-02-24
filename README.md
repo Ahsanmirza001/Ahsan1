@@ -15,7 +15,8 @@ def d_t(n):
 def f_d(f_ns):
     d_ns = list(map(lambda f_n: d_t(f_n),f_ns))
     return list(filter(lambda d_n: d_n[0] != 0, d_ns))
-```y = [(9,5),(4,9)]
+```
+y = [(9,5),(4,9)]
 ```
 
 
